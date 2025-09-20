@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Day3\\TdtuyenDy3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_tdtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_tdtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\componets\\tdtdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\componets\\tdtdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\tdthome\\tdtviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\tdthome\\tdtviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\tdthome\\tdtviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\tdthome\\tdtviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\tdthome\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\tdthome\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\tdthome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\tdthome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_tdtleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_tdtleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_tdtfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_tdtfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\viewcomponents\\tdtdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\viewcomponents\\tdtdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\tdtuyendy3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\tdtuyendy3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|d:\\.net\\day3\\tdtuyendy3\\tdtuyendy3\\views\\shared\\_tdtlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E5BABEB-F2C3-45ED-8905-8C41A0E78FCC}|TdtuyenDy3\\TdtuyenDy3.csproj|solutionrelative:tdtuyendy3\\views\\shared\\_tdtlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\Componets\\TdtDemo\\Default.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\Componets\\TdtDemo\\Default.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\Componets\\TdtDemo\\Default.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\Componets\\TdtDemo\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T09:16:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T06:57:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T06:57:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TdtViewLoop.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtViewLoop.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\TdtHome\\TdtViewLoop.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtViewLoop.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\TdtHome\\TdtViewLoop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:11:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TdtViewIf.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtViewIf.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\TdtHome\\TdtViewIf.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtViewIf.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\TdtHome\\TdtViewIf.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:10:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_TdtLayout.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T06:57:21.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TdtNavBar.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtNavBar.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_TdtNavBar.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtNavBar.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_TdtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:43:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Program.cs",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Program.cs",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Program.cs",
+              "RelativeToolTip": "TdtuyenDy3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:48:36.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\appsettings.json",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\appsettings.json",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\appsettings.json",
+              "RelativeToolTip": "TdtuyenDy3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T08:12:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TdtIndex.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtIndex.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\TdtHome\\TdtIndex.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtIndex.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\TdtHome\\TdtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:07:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TdtAbout.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:08:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\TdtHome\\Privacy.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\TdtHome\\Privacy.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\TdtHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T06:57:32.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:51:53.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:39:50.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_TdtLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_TdtLeftMenu.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLeftMenu.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_TdtLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:41:53.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_TdtFooter.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtFooter.cshtml",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_TdtFooter.cshtml",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtFooter.cshtml",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_TdtFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:39:28.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TdtDemoViewComponent.cs",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\ViewComponents\\TdtDemoViewComponent.cs",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\ViewComponents\\TdtDemoViewComponent.cs",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\ViewComponents\\TdtDemoViewComponent.cs",
+              "RelativeToolTip": "TdtuyenDy3\\ViewComponents\\TdtDemoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:31:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TdtuyenDy3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:10:31.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Models\\Category.cs",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Models\\Category.cs",
+              "RelativeToolTip": "TdtuyenDy3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:26:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TdtHomeController.cs",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Controllers\\TdtHomeController.cs",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Controllers\\TdtHomeController.cs",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Controllers\\TdtHomeController.cs",
+              "RelativeToolTip": "TdtuyenDy3\\Controllers\\TdtHomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:56:29.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TdtuyenDy3.csproj",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\TdtuyenDy3.csproj",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\TdtuyenDy3.csproj",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\TdtuyenDy3.csproj",
+              "RelativeToolTip": "TdtuyenDy3\\TdtuyenDy3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T08:32:57.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_TdtLayout.cshtml.css",
+              "DocumentMoniker": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml.css",
+              "RelativeDocumentMoniker": "TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml.css",
+              "ToolTip": "D:\\.NET\\Day3\\TdtuyenDy3\\TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml.css",
+              "RelativeToolTip": "TdtuyenDy3\\Views\\Shared\\_TdtLayout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-20T08:47:06.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
