@@ -1,0 +1,9 @@
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.csproj.AssemblyReference.cache
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.AssemblyInfoInputs.cache
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.AssemblyInfo.cs
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.csproj.CoreCompileInputs.cache
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.RazorAssemblyInfo.cache
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.RazorAssemblyInfo.cs
+D:\.NET\Day4\NetCoreMVCLab03BT1\NetCoreMVCLab03BT1\obj\Debug\net8.0\NetCoreMVCLab03BT1.sourcelink.json

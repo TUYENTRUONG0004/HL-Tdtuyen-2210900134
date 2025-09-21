@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TdtuyenDy3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72c340db5f369b6a6af222d1ed60cdd3cf31015")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9654b474c20445f4dfbfd63f4eecf7b1dde3be13")]
 [assembly: System.Reflection.AssemblyProductAttribute("TdtuyenDy3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TdtuyenDy3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

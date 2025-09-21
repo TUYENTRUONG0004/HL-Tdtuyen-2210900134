@@ -1,0 +1,49 @@
+﻿@model IEnumerable<BTtl1.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="container mt-3">
+    <div class="row">
+        <!-- Danh mục -->
+        <div class="col-md-3">
+            @await Html.PartialAsync("_CategoryMenu", new List<string> { "Điện tử", "Gia dụng", "Mẹ và bé", "Thời trang", "Nội thất" })
+
+        </div>
+
+        <!-- Sản phẩm -->
+        <div class="col-md-9">
+            <h4 class="text-primary">🔥 Sản phẩm nổi bật</h4>
+            @await Component.InvokeAsync("HotProduct")
+
+            <hr />
+
+            <h4 class="text-success">🆕 Sản phẩm mới nhất</h4>
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-4 mb-3">
+                        <div class="card shadow-sm">
+                            <img src="@item.Image" class="card-img-top" />
+                            <div class="card-body">
+                                <h6 class="card-title">@item.Name</h6>
+                                <p class="card-text text-danger fw-bold">@item.Price.ToString("N0") VNĐ</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Phần giới thiệu -->
+<footer class="bg-dark text-white mt-5 p-4 text-center">
+    <div class="row">
+        <div class="col-md-4">GIỚI THIỆU<br />Nội dung giới thiệu ở đây...</div>
+        <div class="col-md-4">HỖ TRỢ<br />Thông tin hỗ trợ ở đây...</div>
+        <div class="col-md-4">LIÊN HỆ<br />Số điện thoại, email...</div>
+    </div>
+</footer>

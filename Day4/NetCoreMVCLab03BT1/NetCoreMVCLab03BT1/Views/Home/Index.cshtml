@@ -1,0 +1,54 @@
+﻿@model IEnumerable<NetCoreMVCLab03.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Thêm sách</h2>
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <select asp-for="AuthorId" class="form-control" asp-items="ViewBag.authors">
+            <option value="0">Chọn tác giả</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <select asp-for="GenreId" class="form-control" asp-items="ViewBag.genres">
+            <option value="0">Chọn thể loại</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+    <a asp-action="Create" class="btn btn-danger">Thêm mới</a>
+</form>
+
+<hr />
+
+<h2>Danh sách sách</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>AuthorId</th>
+            <th>GenreId</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>TotalPage</th>
+            <th>Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.AuthorId</td>
+                <td>@book.GenreId</td>
+                <td>@book.Image</td>
+                <td>@book.Price</td>
+                <td>@book.TotalPage</td>
+                <td>@book.Summary</td>
+            </tr>
+        }
+    </tbody>
+</table>
