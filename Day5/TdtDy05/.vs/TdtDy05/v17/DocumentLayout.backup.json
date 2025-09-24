@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Day5\\TdtDy05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\member\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\member\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|d:\\.net\\day5\\tdtdy05\\tdtdy05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481BA18C-D1AE-4513-B5BC-C004668BFF83}|TdtDy05\\TdtDy05.csproj|solutionrelative:tdtdy05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:53:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TdtDy05\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TdtDy05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:50:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "TdtDy05\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "TdtDy05\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:05:29.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetMembers.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\GetMembers.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\Member\\GetMembers.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\GetMembers.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\Member\\GetMembers.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:16:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:10:23.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "TdtDy05\\Models\\DataModels\\Member.cs",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "TdtDy05\\Models\\DataModels\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:02:51.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:09:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:10:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TdtDy05\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TdtDy05\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:10:48.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

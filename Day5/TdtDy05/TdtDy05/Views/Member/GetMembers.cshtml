@@ -1,0 +1,38 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "Thông tin thành viên";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thông tin thành viên</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã thành viên</th>
+            <th>Tên đăng nhập</th>
+            <th>Họ và tên</th>
+            <th>Mật khẩu</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.members)
+        {
+            <tr>
+                <td>@item.MemberId</td>
+                <td>@item.Username</td>
+                <td>@item.Fullname</td>
+                <td>@item.Password</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Thêm thành viên mới</a>
