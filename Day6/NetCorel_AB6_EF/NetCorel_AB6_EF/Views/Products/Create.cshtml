@@ -1,0 +1,27 @@
+﻿@model NetCoreLAB6.EF.Models.Product
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Thêm sản phẩm";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.UnitPrice)
+        @Html.TextBoxFor(m => m.UnitPrice, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.UnitPrice)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.CategoryId)
+        @Html.DropDownListFor(m => m.CategoryId, ViewBag.Categories as SelectList, "Chọn danh mục", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.CategoryId)
+    </div>
+    <button type="submit" class="btn btn-primary">Tạo</button>
+</form>

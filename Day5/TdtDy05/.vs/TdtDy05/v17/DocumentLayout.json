@@ -58,8 +58,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\Member\\Create.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAAwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:53:21.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:53:21.62Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "TdtDy05\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:50:45.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:50:45.67Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "TdtDy05\\Controllers\\MemberController.cs",
               "ToolTip": "D:\\.NET\\Day5\\TdtDy05\\TdtDy05\\Controllers\\MemberController.cs",
               "RelativeToolTip": "TdtDy05\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T09:05:29.315Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\Member\\GetMembers.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:16:40.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:16:40.219Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:10:23.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:10:23.472Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "TdtDy05\\Models\\DataModels\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:02:51.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:02:51.529Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\Member\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:09:53.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:09:53.819Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:10:50.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:10:50.801Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "TdtDy05\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:10:48.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:10:48.216Z"
             }
           ]
         }

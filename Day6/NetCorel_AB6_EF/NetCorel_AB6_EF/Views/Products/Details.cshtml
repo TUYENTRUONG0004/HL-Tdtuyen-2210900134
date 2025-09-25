@@ -1,0 +1,22 @@
+﻿@model NetCoreLAB6.EF.Models.Product
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-4">ID</dt>
+            <dd class="col-sm-8">@Model.Id</dd>
+            <dt class="col-sm-4">Tên</dt>
+            <dd class="col-sm-8">@Model.Name</dd>
+            <dt class="col-sm-4">Đơn giá</dt>
+            <dd class="col-sm-8">@Model.UnitPrice</dd>
+            <dt class="col-sm-4">Danh mục</dt>
+            <dd class="col-sm-8">@(Model.Category != null ? Model.Category.Name : "Không có")</dd>
+        </dl>
+    </div>
+</div>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
