@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetCoreLA7.props" />
+</Project>

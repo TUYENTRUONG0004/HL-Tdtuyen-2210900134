@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Admin Management";
+    Layout = "~/Areas/Admin/Views/_Layout.cshtml"; // Sử dụng layout của khu vực Admin
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Admin Panel</title>
+    <!-- Liên kết CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    @RenderSection("CSS", required: false)
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" class="navbar-brand">Dashboard</a>
+                <!-- Thêm các liên kết khác nếu cần -->
+                <ul class="nav navbar-nav">
+                    <li><a asp-area="Admin" asp-controller="Admin" asp-action="Index">Admins</a></li>
+                    <li><a asp-area="Admin" asp-controller="Category" asp-action="Index">Categories</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2>Admin Management</h2>
+        <p>Welcome to the Admin Management section.</p>
+
+        <!-- Danh sách admin (giả định dùng model) -->
+        @if (Model != null && Model.Any())
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Username</th>
+                        <th>Email</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var admin in Model)
+                    {
+                        <tr>
+                            <td>@admin.Id</td>
+                            <td>@admin.Username</td>
+                            <td>@admin.Email</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@admin.Id" class="btn btn-primary btn-sm">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@admin.Id" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No admins found.</p>
+        }
+
+        <p>
+            <a asp-action="Create" class="btn btn-success">Add New Admin</a>
+        </p>
+
+        @RenderBody() <!-- Nếu có nội dung bổ sung từ partial view -->
+    </div>
+
+    <!-- Liên kết JavaScript -->
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

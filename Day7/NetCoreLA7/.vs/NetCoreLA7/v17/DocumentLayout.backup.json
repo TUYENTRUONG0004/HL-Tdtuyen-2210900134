@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Day7\\NetCoreLA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\netcorela7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\netcorela7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|d:\\.net\\day7\\netcorela7\\netcorela7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34593562-66F9-4EA4-90FC-39D612AE9E90}|NetCoreLA7\\NetCoreLA7.csproj|solutionrelative:netcorela7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Program.cs",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Program.cs",
+              "RelativeToolTip": "NetCoreLA7\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:29:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:58:25.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvzwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:01:39.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:28:57.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:24:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Shared\\admin.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Views\\Shared\\admin.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Shared\\admin.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Views\\Shared\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:09:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:21:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:59:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetCoreLA7",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\NetCoreLA7.csproj",
+              "RelativeDocumentMoniker": "NetCoreLA7\\NetCoreLA7.csproj",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\NetCoreLA7.csproj",
+              "RelativeToolTip": "NetCoreLA7\\NetCoreLA7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T08:47:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Main.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:04:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:41:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NetCoreLA7\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NetCoreLA7\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-26T08:08:36.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLA7\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreLA7\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:03:22.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\appsettings.json",
+              "RelativeDocumentMoniker": "NetCoreLA7\\appsettings.json",
+              "ToolTip": "D:\\.NET\\Day7\\NetCoreLA7\\NetCoreLA7\\appsettings.json",
+              "RelativeToolTip": "NetCoreLA7\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T08:03:15.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
